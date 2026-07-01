@@ -1,0 +1,122 @@
+canonical_identifier: bkk:krp/KR6k0052/v1
+canonical_location: https://kanripo.org/bkk/KR6k0052/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 比丘尼羯磨經
+  identifiers:
+    alt_id:
+    - F02n0041
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F02/F02n0041.xml
+    old_id: F02n0041
+  edition:
+    short: bkk
+editions:
+- short: 房山
+  label: 房山
+  source_xml_id: wit.orig
+- short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0052_000.yaml, hash: 'sha256:0d10a5a0cb3405002025b3ffe7ba3d1de0aa19cdcbd9735a7a86cd7a7cee2dbd'}
+  - {seq: 1, filename: KR6k0052_001.yaml, hash: 'sha256:b8902ed3502d0c6a66fb6222ae6a8d1c2de38a8e3dcea6b8ee1be894b5391b50'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0052_001.markers.yaml, hash: 'sha256:4e930be530889b0a502f0136a6a929982004b30be272e33ff61b1599a9a093d7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 7564
+  label: 比丘𡰱羯磨法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 結界法第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-2
+    span:
+    - body
+    - 28
+    - 28
+  label: 受𢦶法第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-3
+    span:
+    - body
+    - 4249
+    - 4249
+  label: 除罪法第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-4
+    span:
+    - body
+    - 5055
+    - 5055
+  label: 說𢦶法第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-5
+    span:
+    - body
+    - 5486
+    - 5486
+  label: 安居法第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-6
+    span:
+    - body
+    - 5502
+    - 5502
+  label: 自恣法第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-7
+    span:
+    - body
+    - 5924
+    - 5924
+  label: 衣食淨法第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0052_F_001-mulu-8
+    span:
+    - body
+    - 5948
+    - 5948
+  label: 雜法第九
+  type: mulu
+  level: 1
+hash: sha256:d067f0e7d647175b76ec65f02dd2ab4b3891f2a7c1d6b510021baac3dc25d6bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

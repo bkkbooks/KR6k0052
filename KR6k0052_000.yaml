@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0052/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 比丘尼羯磨經
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F02/F02n0041.xml
+    old_id: F02n0041
+hash: sha256:0d10a5a0cb3405002025b3ffe7ba3d1de0aa19cdcbd9735a7a86cd7a7cee2dbd

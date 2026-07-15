@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0052/v1
 canonical_location: https://kanripo.org/bkk/KR6k0052/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 比丘尼羯磨經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0052_000.yaml, hash: 'sha256:0d10a5a0cb3405002025b3ffe7ba3d1de0aa19cdcbd9735a7a86cd7a7cee2dbd'}
-  - {seq: 1, filename: KR6k0052_001.yaml, hash: 'sha256:1286bf707dec59bb5cac15b1a117685ada2fbd3c66fe91f02c2131dd6a0135de'}
+  - {seq: 1, filename: KR6k0052_001.yaml, hash: 'sha256:f76bfe458b708873f8faaa2842c307393a4e4c612f6c9c5dc62fe4c5442bfdd4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0052_000.markers.yaml, hash: 'sha256:924185e261d5a6555de34177f2d52c48a82b5865c313cf208263d3566f2c5c27'}
-  - {seq: 1, role: markers, filename: assets/KR6k0052_001.markers.yaml, hash: 'sha256:8379003251b2e12676fd8c0d3ab927d19d963eae01b4636b6caae62a569967af'}
+  - {seq: 1, role: markers, filename: assets/KR6k0052_001.markers.yaml, hash: 'sha256:56ecb8fcb42e8975f46312834621469ec7367c96689c05df5373c82bc7ca1065'}
 table_of_contents:
 - ref:
     seq: 1
@@ -117,4 +117,7 @@ table_of_contents:
   label: 雜法第九
   type: mulu
   level: 1
-hash: sha256:3639d4a7e258f6d48705b6118f702eb06a41244919d1b022488e66ca20389a37
+hash: sha256:c9f5da4ada45216a3d4f3351be2d9dc9a152cb1df1413772d0766de351b1bd91
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
